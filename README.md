@@ -3,11 +3,11 @@ Proyecto Integrador
 
 
 Integrantes: 
-David Toledo
-Valentina Chica
-Emilia Cordero
-Samantha Carchi
-Mateo Saguay 
+David Toledo, 
+Valentina Chica, 
+Emilia Cordero, 
+Samantha Carchi, 
+Mateo Saguay, 
 Eduardo Guerrero
 
 
